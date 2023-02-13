@@ -1,0 +1,9 @@
+#Development stuff
+.venv
+
+#Folder for all of our data
+data
+
+#Python
+__pycache__
+.pytest_cache
